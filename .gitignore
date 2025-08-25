@@ -1,0 +1,14 @@
+# Ignorar solo lo que no queremos subir
+__pycache__/
+*.pyc
+*.swp
+.DS_Store
+
+# No ignorar estas carpetas
+!/.github/
+!/.devcontainer/
+!/venv/
+
+# No ignorar otros archivos del proyecto
+!*.py
+!*.txt
