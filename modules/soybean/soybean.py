@@ -1,0 +1,2 @@
+def soybean():
+    print("soybean")
