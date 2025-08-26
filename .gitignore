@@ -8,6 +8,7 @@ __pycache__/
 !/.github/
 !/.devcontainer/
 !/venv/
+venv
 
 # No ignorar otros archivos del proyecto
 !*.py

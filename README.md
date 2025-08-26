@@ -8,6 +8,9 @@ source venv/bin/activate
 ```
 3.-
 ```
-python install -r requirements.text
+pip install -r requirements.txt
 ```
-
+4.-
+```
+python manage.py
+```
